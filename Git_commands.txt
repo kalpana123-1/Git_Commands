@@ -1,2 +1,13 @@
-Hello
+Git commands for first commit for a newly created repository
 
+~git init
+
+~git add .
+
+~git commit -m "Commit message"
+
+~git branch -M main
+
+~git remote add origin https://github.com/kalpana123-1/Git_Commands.git
+
+~git push -u main
